@@ -1,11 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
+import Header from './Header';
+import Home from './Home';
 import './App.css';
+
 
 function App() {
   return (
     <div>
-      <h1>Hello clever programmers</h1>
+      <Header />
+      <Home />
     </div>
   );
 }
