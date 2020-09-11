@@ -27,6 +27,7 @@
 
 .payment__title {
 	flex: 0.2;
+	padding-right: 30px;
 }
 
 .payment__address,
